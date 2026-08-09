@@ -1,6 +1,6 @@
 # Hi 👋, I'm Moses Oluma
 
-**Robotics & AI Researcher** — Kumoh National Institute of Technology, South Korea
+**Robotics & AI Researcher** - Kumoh National Institute of Technology, South Korea
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-moses.oluma1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/moses-oluma/)
@@ -10,7 +10,7 @@
 ---
 
 ### 🎯 Research focus
-Energy-aware, resource-constrained multi-robot planning — coverage path planning, persistent monitoring under recharging constraints, and charging scheduling under multi-objective optimization. Broader interests in multi-robot coordination and long-term autonomy for unstructured and extreme environments, and integrating learned policies with classical planners under uncertainty.
+Energy-aware, resource-constrained multi-robot planning, coverage path planning, persistent monitoring under recharging constraints, and charging scheduling under multi-objective optimization. Broader interests in multi-robot coordination and long-term autonomy for unstructured and extreme environments, and integrating learned policies with classical planners under uncertainty.
 
 
 ---
