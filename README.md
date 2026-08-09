@@ -32,7 +32,7 @@ Energy-aware, resource-constrained multi-robot planning, coverage path planning,
 
 ### 🛠️ Highlighted Projects
 
-- **[Proactive Coverage Path Planning](https://github.com/mosesoluma/Proactive-Coverage-Path-Planning)** — Hierarchical ACO + GA framework for mission-time-efficient coverage planning under battery constraints (Journal publication).
+- **[Proactive Coverage Path Planning](https://github.com/mosesoluma/Proactive-Coverage-Path-Planning)** ; Hierarchical ACO + GA framework for mission-time-efficient coverage planning under battery constraints (Journal publication).
 
 ---
 ### 🧰 Skills
