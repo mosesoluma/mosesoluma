@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Moses Oluma
 
-<!--
-**mosesoluma/mosesoluma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Robotics & AI Researcher** — Kumoh National Institute of Technology, South Korea
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-moses.oluma1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/moses-oluma/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Add Google Scholar / ORCID badges here once those profiles exist -->
+
+---
+
+### 🎯 Research focus
+
+| Hands-on experience | Research interests |
+|---|---|
+| LiDAR scan matching & point cloud registration (ICP) | Autonomous navigation & SLAM |
+| Coverage & motion planning under energy constraints | Motion planning under uncertainty |
+| Reinforcement learning for control & decision-making | Learning-based autonomy |
+
+---
+
+### 🛠️ Highlighted Projects
+
+- **[Proactive Coverage Path Planning](https://github.com/mosesoluma/Proactive-Coverage-Path-Planning)** — Hierarchical ACO + GA framework for mission-time-efficient coverage planning under battery constraints (Journal publication).
+
+<!-- Optional: 2-3 personal lines here — what pulled you into robotics, an interest outside research, etc. A little personality goes a long way, but keep it short — Hamza's version is two sentences, not a paragraph. -->
+
+---
+
+### 🤝 Open to
+
+Conversations on SLAM, navigation, path planning, or learning-based autonomy — and PhD lab openings in these areas. Reach out by email or LinkedIn above.
